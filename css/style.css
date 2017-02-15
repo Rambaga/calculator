@@ -1,0 +1,39 @@
+html, body{
+	padding: 0;
+	margin: 0;
+}
+*{
+
+}
+#wrapper{
+margin: 20px;
+}
+#calculator{
+	background-color: lightgrey;
+	width: 300px;
+}
+
+#display{
+	margin: 10px 10px;
+}
+#display>input{
+	width: 100%;
+}
+.col-xs-3 .col-xs-6 .col-xs-12{
+	padding: 0px;
+	margin: 0;
+}
+.row{
+	margin: 0;
+}
+
+.btn{
+	width: 50px;
+}
+.btn-lg{
+	width: 100%;
+	
+}
+.btn:focus{
+	outline: none;
+}
